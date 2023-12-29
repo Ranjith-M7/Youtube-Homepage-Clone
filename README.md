@@ -3,4 +3,5 @@ Created a clone of the YouTube home page, meticulously designing the layout, hea
 
 ## Technologies Used
 - HTML5
+- CSS3
 
